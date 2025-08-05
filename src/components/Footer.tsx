@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="bg-sea-green rounded-full p-2">
                 <Fish className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold">PescaAmiga</span>
+              <span className="text-xl font-bold">pescart</span>
             </div>
             <p className="text-blue-100 leading-relaxed">
               Conectando pescadores artesanales con consumidores para promover 
@@ -52,7 +52,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span className="text-blue-100">info@pescaamiga.com</span>
+                <span className="text-blue-100">info@pescart.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-4 h-4" />
@@ -69,7 +69,7 @@ const Footer = () => {
 
         <div className="border-t border-blue-800 mt-8 pt-8 text-center">
           <p className="text-blue-100">
-            © 2024 PescaAmiga. Todos los derechos reservados. 
+            © 2024 pescart. Todos los derechos reservados. 
             <span className="mx-2">|</span>
             <a href="#" className="hover:text-white transition-colors">Términos y Condiciones</a>
             <span className="mx-2">|</span>
