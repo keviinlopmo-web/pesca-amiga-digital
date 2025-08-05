@@ -16,7 +16,7 @@ const Navbar = () => {
             <div className="ocean-gradient rounded-full p-2">
               <Fish className="h-6 w-6 text-white animate-pulse" />
             </div>
-            <span className="text-xl font-bold text-deep-blue">PescaAmiga</span>
+            <span className="text-xl font-bold text-deep-blue">PescArt</span>
           </div>
 
           {/* Desktop Navigation */}
